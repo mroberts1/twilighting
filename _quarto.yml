@@ -1,0 +1,32 @@
+project:
+  type: 
+    website
+  
+format:
+  html: 
+    backgroundcolor: "#EFEDE5"
+    toc: false
+    toc-depth: 3
+    toc-location: right
+    toc-title: '   '
+    theme: 
+      light: ember.scss
+      dark: darkly
+    css: custom.scss
+    #self-contained: true
+    grid:
+        sidebar-width: 400px
+        body-width: 600px
+        #margin-width: 300px
+        #gutter-width: 1em
+    linestretch: 1.5
+    smooth-scroll: true
+    linkcolor: "#2E5392"
+    link-external-newwindow: true
+  PrettyPDF-pdf: default
+lightbox: 
+  match: auto
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto
