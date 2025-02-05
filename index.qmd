@@ -2,16 +2,6 @@
 ---
 title: "Twilighting"
 subtitle: "Naoko Ogigami and the Art of Doing Nothing"
-date: "`r Sys.Date()`"
-author: 
-  - name: Martin Roberts
-    email: martin_roberts@emerson.edu
-  - affiliations: 
-    name: Emerson College
-    address: 100 Boylston Street
-    city: Boston
-    state: MA
-    postal-code: 02116
 ---
 
 ```{r}
@@ -33,14 +23,12 @@ The films of the Japanese auteur Naoko Ogigami are a case study in lifestyle cin
 
 Drawing on Martin Heidegger’s influential defense of boredom, recent analyses have suggested that in seeking to kill time and thereby stave off boredom, contemporary global media thereby also suppress the space of reflection in which philosophical thought itself begins. By contrast, the works of Michelangelo Antonioni or today’s slow cinema filmmakers, while “boring” in terms of the ideology of entertainment media, open up a space for philosophical reflection.
 
-Ogigami’s films take this approach further by paradoxically transforming inactivity itself into a lifestyle. Her films are characterized by their refusal of melodramatic action and calm focus on everyday social relations. Her characters seem to spend much of their time just sitting around staring into space, a practice that in *Megane* (2007) is known as “twilighting”. In contrast to the hyperkinetic pace of contemporary global action cinemas, Ogigami’s characters transform doing nothing itself into an aesthetic practice, open up a space for her audience in which, as Heidegger argues, thought can begin.
+Ogigami’s films take this approach further by paradoxically transforming inactivity itself into a lifestyle. Her films are characterized by their refusal of melodramatic action and calm focus on everyday social relations. Her characters seem to spend much of their time just sitting around staring into space, a practice that in **Megane** (2007) is known as “twilighting”. In contrast to the hyperkinetic pace of contemporary global action cinemas, Ogigami’s characters transform doing nothing itself into an aesthetic practice, open up a space for her audience in which, as Heidegger argues, thought can begin.
 
 ***
 
-[Martin Roberts](mailto:martin_roberts@emerson.edu) teaches courses on world cinema, digital culture, and cinematic media in the Department of Visual & Media Arts at Emerson College, Boston. He completed a doctoral dissertation on the contemporary French novelist Michel Tournier at the University of Cambridge, published as *Michel Tournier: Bricolage and Cultural Mythology* by Stanford French & Italian Studies.
+[**Martin Roberts**](mailto:martin_roberts@emerson.edu) teaches courses on world cinema, digital culture, and cinematic media in the Department of Visual & Media Arts at Emerson College, Boston. He completed a doctoral dissertation on the contemporary French novelist Michel Tournier at the University of Cambridge, published as **Michel Tournier: Bricolage and Cultural Mythology** by Stanford French & Italian Studies.
 
 His postdoctoral research focused on ethnographic surrealism, but since participating in the launch of the Film & Media Studies program at MIT, his research has focused on global media and culture. His publications on film and media include essays on global documentary, IMAX movies, and the Danish Dogma '95 movement in journals such as *Cinema Journal* and *Visual Anthopology*.
 
-His most recent conference papers are [Moving Targets: Object Detection and Algorithmic Aesthetics](https://mroberts1.github.io/moving-targets/); [Dangerous Liaisons: Nocturnal Cinema and the French New Wave](https://mroberts1.github.io/nocturnal-cinema/); and [Entangled Lives: Uncanny Animals in Cosmopolitical Documentary](https://mroberts1.github.io/entangled-lives/).
-
-***
+His most recent conference papers are [**Moving Targets: Object Detection and Algorithmic Aesthetics**](https://mroberts1.github.io/moving-targets/); [**Dangerous Liaisons: Nocturnal Cinema and the French New Wave**](https://mroberts1.github.io/nocturnal-cinema/); and [**Entangled Lives: Uncanny Animals in Cosmopolitical Documentary**](https://mroberts1.github.io/entangled-lives/).
